@@ -6,4 +6,9 @@ sentence-transformers
 pandas
 ollama
 pyperclip
+langchain
+langchain-community
+langchain-openai
+langchain-core
+
 
